@@ -11,7 +11,7 @@
 - **Tools**: Git, Docker, LaTeX
 
 ### 📂 Featured Projects:
-- 🚀 [XV6 Extensions](https://github.com/hammadarif/Extended-Version-of-Xv6.git): Integrating and designing drivers for XV6.
+<!-- 🚀 [XV6 Extensions](https://github.com/hammadarif/Extended-Version-of-Xv6.git): Integrating and designing drivers for XV6.-->
 - 🍴 [Restaurant Website](https://essencityh.com): Multi-language website with PayPal and SMS integration.
 
 ### 📫 How to reach me:
