@@ -69,13 +69,13 @@
 - ✉️ **Email**: hammadarif83@gmail.com  
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 ![Hammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=hammadarif&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hammadarif&layout=compact&theme=radical)
 
 ---
-
+-->
 ### 🔗 Let's Connect!
 Feel free to reach out or explore my repositories. I'm always open to collaboration and discussions! 🚀
 
