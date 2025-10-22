@@ -35,7 +35,7 @@
 ### 💼 Work Experience
 
 #### 🌟 **Working Student Software Developer**  
-**Bosch Sicherheitssysteme GmbH**, Nuremberg *(September 2023 - Present)*  
+**Bosch Sicherheitssysteme GmbH**, Nuremberg *(September 2023 - September 2025)*  
 - 🚀 Implemented and deployed a **microservice architecture application** on **embedded Linux**.  
 - 🛠️ Managed **Docker containers** to streamline deployment.  
 - 🔧 Designed and implemented **Node-RED plugins** for Bosch Security cameras.  
